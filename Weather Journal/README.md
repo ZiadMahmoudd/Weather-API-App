@@ -8,7 +8,7 @@ Working with API , In this project used openweather api to GET and POST Data to 
 how can you use it ?
 it's Easy Just put your ZIP code and Tell us about your Feeling and the Api Will tell you How is the weather today
 
-if your are Devloper :
+if you are a Devloper :
 First : you should install Node.js in your PC
 secound : use The command npm install To Downlode all the dependencies
 Third : run The server : node server.js "Note: The port is 3000"
